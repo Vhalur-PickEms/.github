@@ -1,4 +1,10 @@
-## Hi there 👋
+### Vhalur PickEms
+Welcome to my personal project for semester 3 of Software Engineering at Fontys ICT Eindhoven! 
+
+This project was inspired by my friends. Every year, Riot Games hosts the World Championship for League of Legends. With this, they add a web guessing game called 'PickEm'. Here you can guess who you think will win the next matches and the championship in mind. Unfortunately, they don't have this mini-game during the regular seasons throughout the year, despite us wanting to continue this. That's why I've decided to try and create a version of it for us! 
+
+
+
 
 <!--
 
