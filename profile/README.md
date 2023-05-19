@@ -11,10 +11,10 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 
 ### Documentation
 [Sprint plannings & retrospectives](https://github.com/Vhalur-PickEms/documentation/blob/main/Sprints.md)
-- Research
-- Project Documentation
+Research
+Project Documentation
 [Worklog](https://github.com/Vhalur-PickEms/documentation/blob/main/Files/worklog.xlsx)
-- Personal interest 
+Personal interest 
 
 ### Code repositories
 - Front-end
