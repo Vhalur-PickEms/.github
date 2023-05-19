@@ -27,7 +27,7 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 8. x
 
 ## Group Project
-link TBD
+You can find the group project [here](https://github.com/wocevv).
 
 <!--
 
