@@ -10,7 +10,7 @@ For this semester I have been working on two projects: My individual project (IP
 This project was inspired by my friends. Every year, Riot Games hosts the World Championship for League of Legends. With this, they add a web guessing game called 'PickEm'. Here you can guess who you think will win the next matches and the championship! Unfortunately, they don't have this mini-game during the regular seasons throughout the year, despite us wanting to continue this fun competition among ourselves. That's why I've decided to try and create a version of it for us! 
 
 ### Documentation
-[Sprint plannings & retrospectives](https://github.com/Vhalur-PickEms/documentation/tree/main/Sprints)
+[Sprint plannings & retrospectives](https://github.com/Vhalur-PickEms/documentation/blob/main/Sprints.md)
 - Research
 - Project Documentation
 - Worklog
