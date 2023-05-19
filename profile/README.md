@@ -17,9 +17,9 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 - Personal interest 
 
 ### Code repositories
-- Front-end
-- Back-end
-
+- [Front-end](https://github.com/Vhalur-PickEms/lec-pickems-frontend) 
+- [Back-end](https://github.com/Vhalur-PickEms/MinimalApi)
+ 
 ### Learning outcomes
 1. x
 2. x
