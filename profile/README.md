@@ -1,7 +1,7 @@
 # Welcome to Vhalur PickEms!
 
 ## About Me
-My name is Casper van den Dijk, a student at Fontys University of Applied Sciences. Here I study the HBO ICT course, currently in the third semester of software engineering. 
+Welcome to my portfolio! My name is Casper van den Dijk, a student at Fontys University of Applied Sciences. Here I study the HBO ICT course, currently in the third semester of software engineering. 
 
 For this semester I have been working on two projects: My individual project (IP) and the group project (GP).
 
