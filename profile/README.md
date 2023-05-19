@@ -13,7 +13,7 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 [Sprint plannings & retrospectives](https://github.com/Vhalur-PickEms/documentation/blob/main/Sprints.md)
 - Research
 - Project Documentation
-- Worklog
+[Worklog](https://github.com/Vhalur-PickEms/documentation/blob/main/Files/worklog.xlsx)
 - Personal interest 
 
 ### Code repositories
