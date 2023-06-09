@@ -14,7 +14,6 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 - [Research](https://github.com/Vhalur-PickEms/documentation/tree/main/Research)
 - Project Documentation
 - [Worklog](https://github.com/Vhalur-PickEms/documentation/blob/main/Screenshot_1.png)
-- Personal interest 
 
 ### Code repositories
 - [Front-end](https://github.com/Vhalur-PickEms/lec-pickems-frontend) 
