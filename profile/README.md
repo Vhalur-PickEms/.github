@@ -20,7 +20,7 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 - [Back-end](https://github.com/Vhalur-PickEms/MinimalApi)
  
 ### Learning outcomes
-## 1. Web application
+#### 1. Web application
 
 >Clarification:
 >
@@ -29,23 +29,23 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 >Full-stack: You design and build a full stack application using a commonly accepted front end Javascript framework and back end application implementing relevant >communication protocols, persistence of data by usage of ORM and addressing asynchronous communication issues.
 
 
-## 2. Software quality
+#### 2. Software quality
 >Clarification:
 >
 >Tooling and methodology: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well >as applying static code analysis and code reviews.
 
-## 3. Agile method
+#### 3. Agile method
 >Clarification:
 >
 >Choose: You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined >selection criteria and context analyses.
 
-## 4. CI/CD
+#### 4. CI/CD
 >Clarification:
 >
 >Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
 
-## 5. Cultural differences and ethics
+#### 5. Cultural differences and ethics
 >Clarifications:
 >
 >Recognize: Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
@@ -54,12 +54,12 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 >
 >Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
 
-## 6. Requirements and design
+#### 6. Requirements and design
 >Clarification:
 >
 >Multiple types of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of >the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
-## 7. Business process
+#### 7. Business process
 >Clarification:
 >
 >Simple: Involving stakeholders, predominantly sequential processes with one or two alternative paths.
@@ -70,7 +70,7 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 >
 >Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
 
-## 8. Proffessional
+#### 8. Proffessional
 >
 >Clarification:
 >
