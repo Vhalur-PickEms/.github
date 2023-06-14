@@ -9,16 +9,10 @@ For this semester I have been working on two projects: My individual project (IP
 ### The Concept
 This project was inspired by my friends. Every year, Riot Games hosts the World Championship for League of Legends. With this, they add a web guessing game called 'PickEm'. Here you can guess who you think will win the next matches and the championship! Unfortunately, they don't have this mini-game during the regular seasons throughout the year, despite us wanting to continue this fun competition among ourselves. That's why I've decided to try and create a version of it for us! 
 
-### Documentation
-- [Sprint plannings & retrospectives](https://github.com/Vhalur-PickEms/documentation/blob/main/Sprints.md)
-- [Research](https://github.com/Vhalur-PickEms/documentation/tree/main/Research)
-- [Project Documentation](https://github.com/Vhalur-PickEms/documentation/tree/main/c2model)
-- [Worklog](https://github.com/Vhalur-PickEms/documentation/blob/main/worklog.png)
-- [Personal Reflection](https://github.com/Vhalur-PickEms/documentation/blob/main/reflection.md)
-
-### Code repositories
-- [Front-end](https://github.com/Vhalur-PickEms/lec-pickems-frontend) 
-- [Back-end](https://github.com/Vhalur-PickEms/MinimalApi)
+### Repositories
+- [Documentation](https://github.com/Vhalur-PickEms/documentation/tree/main) 
+- [Front-end - Vue Web App](https://github.com/Vhalur-PickEms/lec-pickems-frontend) 
+- [Back-end - Minimal Web API](https://github.com/Vhalur-PickEms/MinimalApi)
  
 ### Learning outcomes
 #### 1. Web application (IP)
