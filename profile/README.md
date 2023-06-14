@@ -4,9 +4,11 @@
 Welcome again to my portfolio! My name is Casper van den Dijk, a student at Fontys University of Applied Sciences in Eindhoven. Here I study the HBO ICT course, currently in the third semester of software engineering. 
 
 For this semester I have been working on two projects: My individual project (IP) and the group project (GP).
+<br> <br>
 
 ### The Concept
 This project was inspired by my friends. Every year, Riot Games hosts the World Championship for League of Legends. With this, they add a web guessing game called 'PickEms'. Here you can guess who you think will win the next matches and the championship! Unfortunately, they don't have this mini-game during the regular seasons throughout the year, despite us wanting to continue this fun competition among ourselves. That's why I've decided to try and create a version of it myself!
+<br> <br>
 
 ### Repositories
 - [Individual Project](https://github.com/Vhalur-PickEms)
@@ -14,8 +16,7 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
   - [Front-end - Vue Web App](https://github.com/Vhalur-PickEms/lec-pickems-frontend) 
   - [Back-end - Minimal Web API](https://github.com/Vhalur-PickEms/MinimalApi)
 - [Group Project](https://github.com/wocevv)
- 
-<br> 
+<br> <br>
 
 ### Learning outcomes
 #### 1. Web application (IP)
