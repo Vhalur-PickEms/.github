@@ -33,6 +33,12 @@ The back-end for the application had a few more requirements. It had to be an OO
 >
 >Tooling and methodology: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well >as applying static code analysis and code reviews.
 
+To ensure software quality for my project I use SonarCloud. SonarCloud is a cloud-based static code analysis service. On every pull request that I make Sonarcloud will 'activate'. It looks through my code and checks for code smells, bugs, test coverage, vulnerabilities and more. Depending on the issue it found, SonarCloud will even offer solutions on how to fix this. 
+<br><br>
+While SonarCloud is an useful service, I shouldn't completely rely on third-party services to check MY code. To make sure the code I write works as intended, I have set-up integration tests. More on these during learning outcome 4.
+<br><br>
+To ensure proper security for my project I integrated OAuth 2 through Auth0. Both the front- and back-end require Auth0 authentication. Only with an Auth0 token created through my domain do these applications allow certain functionality. 
+
 #### 3. Agile Software Development (GP)
 >Clarification:
 >
@@ -50,6 +56,17 @@ Every sprint would be finished with a sprint meeting with our stakeholders follo
 >
 >Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
+"Cntinuous Integration and Continuous Deployment". This is a commonly used method introducing automation during app development. In my project, my CI/CD pipeline consists of three steps:
+#### 1. Testing and Building the project 
+When a pull request is made, the pipeline automatically tries to run the unit and integration tests in the project aswell as trying to build the project. The tests it runs are written myself as mentioned in learning outcome 3. If this step does not fail, it moves to step 2.
+
+#### 2. Static Code Analysis provided by SonarCloud
+When step 1 succeeds, step 2 automatically starts. SonarCloud takes a few minutes to read through the project's code. When it's done, a report is made on the code quality and posted as a comment on the pull request. Should this check succeed, the pipeline continues to step 3.
+
+#### 3. Building a docker image and pushing to dockerhub
+It should be noted, this step has two conditions. The first being step 2 succeeds. Furthermore, this check is only done when the pull request goes to main. I want a docker image of code that has functionality and would be deployed into the real application. I do not need a docker image of a quick hotfix I made during development. <br>
+Should both these conditions be met, a docker image of the project is made and automatically pushed to my private repository on DockerHub. 
+<br><br>
 
 #### 5. Cultural differences and ethics (GP)
 >Clarifications:
@@ -98,16 +115,11 @@ When we started this project, our stakeholders mentioned they had interest in co
 >You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
 >You choose and substantiate solutions for a given problem.
 
+I started the semester horribly. No motivation, no communication and I did nothing for my IP. This is not the first time this happened to me. Before I started this study, I was a student at the HAN Academy of Physical Education. The main reason I did not finish this study was mental health. During this study I showed a similar lack of motiviation. Thankfully I was able to pull myself back and I started, albeit late, semester 3. 
+<br><br>
+During this shortened journey of semester 3 I have learned a lot about being a software engineer, a student and myself. While I am happy with the progress I have made as a software developer and the new techniques I have learned, I am most proud of my personal growth. I have written a small [journal](https://github.com/Vhalur-PickEms/documentation/edit/main/reflection.md) about this journey and reflected on my progress. 
+<br><br>
+For the learning outcome itself, I often tried to get feedback and engage in discussion about technical designs. Furthermore, I have tried to be open and communicate often with my teachers, stakeholders and project group members. 
+<br><br>
 ## Group Project
 You can find the group project [here](https://github.com/wocevv).
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
