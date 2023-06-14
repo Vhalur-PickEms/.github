@@ -12,8 +12,9 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 ### Documentation
 - [Sprint plannings & retrospectives](https://github.com/Vhalur-PickEms/documentation/blob/main/Sprints.md)
 - [Research](https://github.com/Vhalur-PickEms/documentation/tree/main/Research)
-- Project Documentation
-- [Worklog](https://github.com/Vhalur-PickEms/documentation/blob/main/Screenshot_1.png)
+- [Project Documentation](https://github.com/Vhalur-PickEms/documentation/tree/main/c2model)
+- [Worklog](https://github.com/Vhalur-PickEms/documentation/blob/main/worklog.png)
+- [Personal Reflection](https://github.com/Vhalur-PickEms/documentation/blob/main/reflection.md)
 
 ### Code repositories
 - [Front-end](https://github.com/Vhalur-PickEms/lec-pickems-frontend) 
