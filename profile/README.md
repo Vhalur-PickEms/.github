@@ -23,16 +23,20 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 >
 >Full-stack: You design and build a full stack application using a commonly accepted front end Javascript framework and back end application implementing relevant >communication protocols, persistence of data by usage of ORM and addressing asynchronous communication issues.
 
+hahahahxd
+asdaljsbghdkjasdasd 
 
 #### 2. Software quality (IP)
 >Clarification:
 >
 >Tooling and methodology: Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as well >as applying static code analysis and code reviews.
 
-#### 3. Agile method (GP)
+#### 3. Agile Software Development (GP)
 >Clarification:
 >
 >Choose: You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on well-defined >selection criteria and context analyses.
+
+When the group came together to work, we started everyday with a "stand-up". During this, the current scrum master would be leading this conversation. Together with JIRA, we assigned tasks and outed potential issues that might require assistance. After the stand-up we would start working on our assigned tasks. When online (Mondays), people would split off in their assigned discord channel to ease communication where needed, mostly split between front-end and back-end. If a question ever came up that required someone from a different "team", we had no issue with quickly swapping channel and helping out. 
 
 #### 4. CI/CD (IP)
 >Clarification:
