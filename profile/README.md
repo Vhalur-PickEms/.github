@@ -70,7 +70,7 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 >
 >Business processes needed for the success of your software development project (e.g., product release, market release, financial assurance).
 
-#### 8. Proffessional (GP)
+#### 8. Proffessional (GP/IP)
 >
 >Clarification:
 >
