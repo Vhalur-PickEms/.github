@@ -60,7 +60,7 @@ Every sprint would be finished with a sprint meeting with our stakeholders follo
 >
 >Design and implement: You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
-"Cntinuous Integration and Continuous Deployment". This is a commonly used method introducing automation during app development. In my project, my CI/CD pipeline consists of three steps:
+"Cntinuous Integration and Continuous Deployment". This is a commonly used method introducing automation during app development. In my project, [my CI/CD pipeline](https://github.com/Vhalur-PickEms/MinimalApi/blob/main/.github/workflows/dotnet.yml) consists of three steps:
 #### 1. Testing and Building the project 
 When a pull request is made, the pipeline automatically tries to run the unit and integration tests in the project as well as trying to build the project. The tests it runs are written myself as mentioned in learning outcome 3. If this step does not fail, it moves to step 2.
 
