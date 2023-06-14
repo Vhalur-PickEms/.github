@@ -1,18 +1,19 @@
-# Welcome to Vhalur PickEms!
+# Welcome to Semester 3 Portfolio!
 
 ## About Me
-Welcome to my portfolio! My name is Casper van den Dijk, a student at Fontys University of Applied Sciences in Eindhoven. Here I study the HBO ICT course, currently in the third semester of software engineering. 
+Welcome again to my portfolio! My name is Casper van den Dijk, a student at Fontys University of Applied Sciences in Eindhoven. Here I study the HBO ICT course, currently in the third semester of software engineering. 
 
 For this semester I have been working on two projects: My individual project (IP) and the group project (GP).
 
-## Individual Project
 ### The Concept
-This project was inspired by my friends. Every year, Riot Games hosts the World Championship for League of Legends. With this, they add a web guessing game called 'PickEm'. Here you can guess who you think will win the next matches and the championship! Unfortunately, they don't have this mini-game during the regular seasons throughout the year, despite us wanting to continue this fun competition among ourselves. That's why I've decided to try and create a version of it for us! 
+This project was inspired by my friends. Every year, Riot Games hosts the World Championship for League of Legends. With this, they add a web guessing game called 'PickEms'. Here you can guess who you think will win the next matches and the championship! Unfortunately, they don't have this mini-game during the regular seasons throughout the year, despite us wanting to continue this fun competition among ourselves. That's why I've decided to try and create a version of it myself!
 
 ### Repositories
-- [Documentation](https://github.com/Vhalur-PickEms/documentation/tree/main) 
-- [Front-end - Vue Web App](https://github.com/Vhalur-PickEms/lec-pickems-frontend) 
-- [Back-end - Minimal Web API](https://github.com/Vhalur-PickEms/MinimalApi)
+- [Individual Project](https://github.com/Vhalur-PickEms)
+  - [Documentation](https://github.com/Vhalur-PickEms/documentation/tree/main) 
+  - [Front-end - Vue Web App](https://github.com/Vhalur-PickEms/lec-pickems-frontend) 
+  - [Back-end - Minimal Web API](https://github.com/Vhalur-PickEms/MinimalApi)
+- [Group Project](https://github.com/wocevv)
  
 <br> 
 
@@ -122,6 +123,3 @@ I started the semester horribly. No motivation, no communication and I did nothi
 During this shortened journey of semester 3 I have learned a lot about being a software engineer, a student and myself. While I am happy with the progress I have made as a software developer and the new techniques I have learned, I am most proud of my personal growth. I have written a small [journal](https://github.com/Vhalur-PickEms/documentation/edit/main/reflection.md) about this journey and reflected on my progress. 
 <br><br>
 For the learning outcome itself, I often tried to get feedback and engage in discussion about technical designs. Furthermore, I have tried to be open and communicate often with my teachers, stakeholders and project group members. 
-<br><br>
-## Group Project
-You can find the group project [here](https://github.com/wocevv).
