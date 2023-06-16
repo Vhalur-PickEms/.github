@@ -13,7 +13,7 @@ This project was inspired by my friends. Every year, Riot Games hosts the World 
 ### Repositories
 - [Individual Project](https://github.com/Vhalur-PickEms)
   - [Documentation](https://github.com/Vhalur-PickEms/documentation/tree/main) 
-  - [Front-end - Vue Web App](https://github.com/Vhalur-PickEms/lec-pickems-frontend) 
+  - [Front-end - Vue Web App](https://github.com/Vhalur-PickEms/vue-front-end) 
   - [Back-end - Minimal Web API](https://github.com/Vhalur-PickEms/MinimalApi)
 - [Group Project](https://github.com/wocevv)
 <br> <br>
