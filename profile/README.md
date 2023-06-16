@@ -1,4 +1,4 @@
-# Welcome to Semester 3 Portfolio!
+# Welcome to my Minimal Minimal Semester 3 Portfolio!
 
 ## About Me
 Welcome again to my portfolio! My name is Casper van den Dijk, a student at Fontys University of Applied Sciences in Eindhoven. Here I study the HBO ICT course, currently in the third semester of software engineering. 
